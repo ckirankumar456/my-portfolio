@@ -7,7 +7,7 @@ function SkillSet() {
           <div className="box">
             <h3>Programming Language</h3>
             <div className="tags">
-              <span className="tag">Java</span>
+              <span className="tag">Basic Java</span>
               <a href="https://drive.google.com/file/d/1d78ihVh58RuECCXtEbimExLhA0tgi77y/view?usp=sharing">
                 <button className="glass-btn">View</button>
               </a>

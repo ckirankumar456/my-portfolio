@@ -162,15 +162,16 @@ function ViewResult() {
             </div>
           </div>
           <div class="process-box orange">
-            <h3>Text Extract</h3>
+            <h3>To-Do-App</h3>
             <p>
-              I built an OCR Image Text Extraction web app using the MERN stack.
-              It uses Tesseract.js for text recognition and jsPDF for creating
-              PDFs. Users can upload images, extract and edit text, then
-              download clean, formatted PDFs. The frontend was made with
-              React.js and React Hooks, and the backend with Node.js,
-              Express.js, and MySQL for data storage.
+              I built a Todo application using React.js with the Context API for
+              state management. The app allows users to add, edit, and delete
+              tasks, with a confirmation popup before deletion to avoid
+              mistakes. It also includes a light theme to provide a better user
+              experience. I used React Hooks and a component-based architecture
+              to keep the code clean, organized, and maintainable.
             </p>
+
             <div className="viewCode">
               <button>
                 <a

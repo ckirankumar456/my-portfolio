@@ -81,10 +81,6 @@ const GetInTouch = () => {
             </div>
           </div>
           <div className="contact-right">
-            <p>
-              Use this form to contact me directly your message will be sent
-              straight to my inbox.
-            </p>
             <form className="contact-form" onSubmit={handleSubmit}>
               <input
                 type="text"
