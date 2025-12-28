@@ -152,7 +152,7 @@ function ViewResult() {
               </button>
               <button>
                 <a
-                  href="https://drive.google.com/file/d/1Z7srjcs56hLIcvqMcJlNdPVmB5PcGY97/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1i5ZCbhYtV_FYfbYvtmD2eGLKUtXnQmCJ/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -184,7 +184,7 @@ function ViewResult() {
               </button>
               <button>
                 <a
-                  href="https://drive.google.com/file/d/1TpnK9wlzRc3PGjqyYyX13tYPDd4njWe4/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1BZC-3fXNRoh_SFwXtMjFjstZopFrC9Eo/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer"
                 >
