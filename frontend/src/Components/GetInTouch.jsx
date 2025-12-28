@@ -53,7 +53,7 @@ const GetInTouch = () => {
             </div>
             <button className="resume-btn">
               <a
-                href=" https://drive.google.com/file/d/1C-9D0EskkuuX8gnqfGFk0XN4_TP8LsgH/view?usp=sharing"
+                href=" https://drive.google.com/file/d/1lSa9dnfk3Y03X2uwgnpdujTniD1UZ0MP/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
               >
